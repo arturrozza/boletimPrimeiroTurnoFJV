@@ -1,10 +1,4 @@
-from atividadeAvFunction import (
-    apresenta_relatorio,
-    cria_arquivo_parcial,
-    cria_resumo,
-    busca_top_votados_por_cidade,
-    deleta_arquivos_gerados
-)
+from atividadeAvFunction import (apresenta_relatorio, cria_arquivo_parcial, cria_resumo, busca_top_votados_por_cidade, deleta_arquivos_gerados)
 
 def menu():
     while True:
